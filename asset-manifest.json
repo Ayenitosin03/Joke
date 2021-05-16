@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.730525b3.chunk.css",
-    "main.js": "/static/js/main.9f629f0a.chunk.js",
-    "main.js.map": "/static/js/main.9f629f0a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b5edb78f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b5edb78f.js.map",
-    "static/js/2.4c085893.chunk.js": "/static/js/2.4c085893.chunk.js",
-    "static/js/2.4c085893.chunk.js.map": "/static/js/2.4c085893.chunk.js.map",
-    "static/js/3.7183fa69.chunk.js": "/static/js/3.7183fa69.chunk.js",
-    "static/js/3.7183fa69.chunk.js.map": "/static/js/3.7183fa69.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.730525b3.chunk.css.map": "/static/css/main.730525b3.chunk.css.map",
-    "static/js/2.4c085893.chunk.js.LICENSE.txt": "/static/js/2.4c085893.chunk.js.LICENSE.txt"
+    "main.css": "/Joke/static/css/main.730525b3.chunk.css",
+    "main.js": "/Joke/static/js/main.9f629f0a.chunk.js",
+    "main.js.map": "/Joke/static/js/main.9f629f0a.chunk.js.map",
+    "runtime-main.js": "/Joke/static/js/runtime-main.228eeace.js",
+    "runtime-main.js.map": "/Joke/static/js/runtime-main.228eeace.js.map",
+    "static/js/2.4c085893.chunk.js": "/Joke/static/js/2.4c085893.chunk.js",
+    "static/js/2.4c085893.chunk.js.map": "/Joke/static/js/2.4c085893.chunk.js.map",
+    "static/js/3.7183fa69.chunk.js": "/Joke/static/js/3.7183fa69.chunk.js",
+    "static/js/3.7183fa69.chunk.js.map": "/Joke/static/js/3.7183fa69.chunk.js.map",
+    "index.html": "/Joke/index.html",
+    "static/css/main.730525b3.chunk.css.map": "/Joke/static/css/main.730525b3.chunk.css.map",
+    "static/js/2.4c085893.chunk.js.LICENSE.txt": "/Joke/static/js/2.4c085893.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5edb78f.js",
+    "static/js/runtime-main.228eeace.js",
     "static/js/2.4c085893.chunk.js",
     "static/css/main.730525b3.chunk.css",
     "static/js/main.9f629f0a.chunk.js"
