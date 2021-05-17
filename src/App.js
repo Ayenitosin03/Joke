@@ -25,10 +25,10 @@ const App = () => {
 
   return (
     <div className='jokes' key={jokes.id}>
-    <h3 className='jokes__setup'>{jokes.setup}</h3>
-      <p className='jokes__punchline'>{jokes.punchline}</p>
+    <h3 className='jokes__setup'>Setup: {jokes.setup}</h3>
+      <p className='jokes__punchline'>Punchline: {jokes.punchline}</p>
       <div class="balls" id="red"></div>
-      <div class="balls" id="blue"></div>
+      <div class="balls" id="white"></div>
       <div class="balls" id="green"></div>
     </div>
   );
