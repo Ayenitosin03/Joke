@@ -11,7 +11,8 @@ div{
 h1{
   color:white;
   text-transform: uppercase;
-  margin-top: 40vh;
+  margin-top: -40vh;
+  text-align: center;
 }
 
 h3{
