@@ -6,10 +6,18 @@ div{
   min-height: 100vh;
   font-family: 'Courier New', Courier, monospace;
 }
+
+
+h1{
+  color:white;
+  text-transform: uppercase;
+  margin-top: 40vh;
+}
+
 h3{
   position: relative;
   font-size: 30px;
-  color: #383d52;
+  color:#f0f0f0;
   -webkit-text-stroke: 0.1vw #f0f0f0; 
   text-transform: uppercase;
   animation: question 15s infinite;
@@ -52,37 +60,3 @@ p{
   100%{margin-left: 100px;}
 }
 
-.balls{
-  border-radius: 50%;
-  position: absolute;
-  width: 25px;
-  height: 25px;
-  top: 60%;
-  animation-name: jump;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  min-height: 5vh;
-}
-#red {
-  background: red;
-  left: 25%;
-  animation-timing-function: linear;
-}
-
-#white {
-  background: white;
-  left: 50%;
-  animation-timing-function: ease-out;
-}
-
-#green {
-  background: green;
-  left: 75%;
-  animation-timing-function: cubic-bezier(0.311, 0.441, 0.444, 1.649);
-}
-
-@keyframes jump {
-  50% {
-    top: 10%
-  }
-}
